@@ -12,7 +12,7 @@ OpenJDK 64-Bit Server VM Temurin-17.0.20.1+1 (build 17.0.20.1+1, mixed mode, sha
 ```
 
 ## Install Scala CLI
-https://scala-cli.virtuslab.org/install/
+https://scala-cli.virtuslab.org/install/  
 check `scala`  or `scala-cli`  
 output:
 ```
