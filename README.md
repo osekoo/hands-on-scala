@@ -2,8 +2,8 @@
 Hands On Scala
 
 ## Install Java 17
-https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
-check: `java -version`  
+https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html   
+check: `java -version`    
 output:   
 ```
 openjdk version "17.0.20.1" 2026-08-18
