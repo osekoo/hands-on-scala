@@ -3,10 +3,10 @@ Hands On Scala
 
 ## Install Java 17
 https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html   
-check: 
+check:   
 ```java -version``` 
 
-output:   
+output:     
 ```
 openjdk version "17.0.20.1" 2026-08-18
 OpenJDK Runtime Environment Temurin-17.0.20.1+1 (build 17.0.20.1+1)
@@ -15,7 +15,7 @@ OpenJDK 64-Bit Server VM Temurin-17.0.20.1+1 (build 17.0.20.1+1, mixed mode, sha
 
 ## Install Scala CLI
 https://scala-cli.virtuslab.org/install/  
-check:
+check:  
 ```scala```  
 or  
 ```scala-cli```
